@@ -275,7 +275,7 @@ html{
 }
 @keyframes javascript {
     0%{width: 0%;}
-    100%{width: 50%;}
+    100%{width: 60%;}
 }
 
 .skills .skill .html{
@@ -293,7 +293,7 @@ html{
 }
 @keyframes css {
     0%{width: 0%;}
-    100%{width: 60%;}
+    100%{width: 70%;}
 }
 
 .skills .skill .Bootstrap{
@@ -320,7 +320,7 @@ html{
 }
 @keyframes Communication {
     0%{width: 0%;}
-    100%{width: 90%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .TeamWork{
@@ -329,7 +329,7 @@ html{
 }
 @keyframes TeamWork {
     0%{width: 0%;}
-    100%{width: 90%;}
+    100%{width: 100%;}
 }
 
 .skills .skill .Creativity{
@@ -338,7 +338,7 @@ html{
 }
 @keyframes Creativity {
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .Dedication{
