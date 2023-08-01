@@ -9,6 +9,7 @@ html{
     /* me permite deslizar cuando hago clic en los links del menu */
     scroll-behavior: smooth;
 }
+
 /* MENU */
 .contenedor-header{
     background: #1e2326;
@@ -55,6 +56,7 @@ html{
     cursor: pointer;
     display: none;
 }
+
 /* SECCION START */
 .start{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
@@ -208,6 +210,7 @@ html{
 .aboutme button:hover .overlay{
     width: 100%;
 }
+
 /* SECCION S K I L L S */
 .skills{
     background-color: #252A2E;
@@ -268,6 +271,7 @@ html{
     right: -15px;
     font-size: 14px;
 }
+
 /* Estas clases se agregaran dinamicamente mediante javascript */
 .skills .skill .javascript{
     width: 0%;
@@ -358,6 +362,7 @@ html{
     0%{width: 0%;}
     100%{width: 100%;}
 }
+
 /* SECCION RESUME*/
 .resume{
     background-color: #1e2326;
@@ -464,6 +469,7 @@ html{
     position: relative;
     bottom: 4px;
 }
+
 /* SECCION PORTFOLIO */
 .portfolio{
     background-color: #252A2E;
@@ -521,6 +527,7 @@ html{
 .portfolio .galeria .proyecto .overlay:hover h3{
     margin-bottom: 0px;
 }
+
 /* SECCION FOOTER */
 footer{
     background-color: #252A2E;
@@ -560,6 +567,7 @@ footer .arriba{
     line-height: 50px;
     font-size: 18px;
 }
+
 /* SECCION RESPONSIVE */
 @media screen and (max-width:980px){
     nav{
